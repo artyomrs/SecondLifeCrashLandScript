@@ -11,12 +11,12 @@ Requisitos:
 
 Dicas >>
 
-1- Você quer derrubar a land sem cair junto ?
+1- Você quer derrubar a land sem cair junto?
    
     De uma consideravel distancia de uma caixa a outra, Deixe a caixa de cima selecionada enquanto procurar uma land para se teleportar.
     Assim que achar a land, quando você efetuar o teleport a caixa irá colidir e você não estará mais lá..
 
-2- Quero derrubar uma land mas não tem rezz liberado
+2- Quer derrubar uma land mas não tem rezz liberado?
     
     Essa land tem lands ao redor ? Se a resposta for "SIM" procure um local nas ilhas em volta na qual você consiga dar rezz
     De rezz em 2 caixas uma em cima da outra, com uma minima distancia. Você irá sentar na caixa de cima e colocar o script na
