@@ -1,6 +1,6 @@
 Como configurá-lo ?
 
-Você irá colocar 2 caixas, uma no chão e outra um pouco acima dessa, Você colocará o Script MEGA na caixa que está no chão, e o Script MASSO na caixa que está á cima.
+Você irá colocar 2 caixas, uma no chão e outra um pouco acima dessa, Você colocará o Script Deez na caixa de baixo, e o Script Nutz na caixa que está á cima.
 Assim que feito a caixa de cima irá colidir com a caixa de baixo, causando o derrubamento instantâneo da ilha.
 
 Requisitos:
