@@ -29,21 +29,5 @@ default
         llSleep(.1);
         llVolumeDetect(0);
         llSleep(.1);
-        llVolumeDetect(1);
-        llSleep(.1);
-        llVolumeDetect(0);
-        llSleep(.1);
-        llVolumeDetect(1);
-        llSleep(.1);
-        llVolumeDetect(0);
-        llSleep(.1);
-        llVolumeDetect(1);
-        llSleep(.1);
-        llVolumeDetect(0);
-        llSleep(.1);
-        llVolumeDetect(1);
-        llSleep(.1);
-        llVolumeDetect(0);
-        llSleep(.1);
     }
 }
