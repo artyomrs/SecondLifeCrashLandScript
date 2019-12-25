@@ -22,4 +22,4 @@ Dicas >>
     De rezz em 2 caixas uma em cima da outra, com uma minima distancia. Você irá sentar na caixa de cima e colocar o script na
     caixa de baixo e na caixa de cima enquanto segura a de cima, logo depois você irá linkar as 2..
     Depois de linkar as 2 e estar sentado nelas, funcionaram como um carro. Você pode mover para a land que deseja derrubar
-    Assim que você deslinkar a land irá CAIR.
+    Assim que você deslinkar a land irá CAIR..
